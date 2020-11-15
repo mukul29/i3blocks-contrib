@@ -5,7 +5,7 @@
 #                                                                                  
 # i3blocks blocklet script to display pending system upgrades 
 
-# FontAwesome refresh symbol, change if you do not want to install FontAwesome
+# Font Awesome 5 Free refresh symbol, change if you do not want to install Font Awesome 5 Free
 PENDING_SYMBOL=${PENDING_SYMBOL:-"\uf021 "}
 
 # By default, show both the symbol and the numbers

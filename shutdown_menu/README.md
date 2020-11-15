@@ -20,7 +20,7 @@ It is inspired from an example in [i3pystatus' Wiki][i3pystatus].
 ```
 [shutdown_menu]
 full_text=Quit
-# If you are using FontAwesome, we recommend the power-off icon:
+# If you are using Font Awesome 5 Free, we recommend the power-off icon:
 # http://fontawesome.io/icon/power-off/
 command=$SCRIPT_DIR/shutdown_menu
 #FG_COLOR=#bbbbbb
@@ -46,7 +46,7 @@ instance:
 bindsym Control+Mod1+Delete exec $SCRIPTDIR/shutdown_menu
 ```
 
-For the i3blocks label to use, we recommend FontAwesome's
+For the i3blocks label to use, we recommend Font Awesome 5 Free's
 [power-off][power-off] icon.
 
 

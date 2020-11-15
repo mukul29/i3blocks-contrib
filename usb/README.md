@@ -78,8 +78,8 @@ The strings are full device paths, with "/dev" optionally omitted.
 For example, the previous "sdd1" is expanded to "/dev/sdd1" at runtime.
 The list is safely parsed using ast.literal_eval, NOT eval.
 
-If you decide not to install FontAwesome, 
+If you decide not to install Font Awesome 5 Free, 
 then you will probably want to change the `LOCKED_INDICATOR` and 
 `UNLOCKED_INDICATOR` variables, as these use unicode symbols provided by 
-FontAwesome (and not many other fonts).
+Font Awesome 5 Free (and not many other fonts).
 You do not need to restart i3 after making a change to the config.
